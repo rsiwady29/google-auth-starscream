@@ -1,12 +1,6 @@
-# google-oauth
+Documentation for OAuth:
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
 
-## Build & development
+Should be easy to follow from: https://github.com/angular-oauth/angular-oauth
 
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+API console images: 
